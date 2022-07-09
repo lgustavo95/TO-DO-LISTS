@@ -1,6 +1,6 @@
-# TO-DO-LISTS
+# TO-DO-LISTS ✔️
 
-## Mini project: To-Do list
+## Mini project: To-Do list ✔️
 
 ### 1st type
 
